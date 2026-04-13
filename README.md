@@ -46,7 +46,7 @@ User Input → Prompt Template → LLM → Chain → Memory / Tool / Agent → F
 
 ## 🖼️ Langchain Architecture Flowchart Diagram
 
-![Lanchain architecture](Langchain architecture flowchart.png)
+![Architecture](architecture.png)
 
 ---
 
