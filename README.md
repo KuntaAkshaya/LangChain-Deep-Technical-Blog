@@ -71,7 +71,7 @@ Due to the use of a lightweight model (GPT-2), outputs may not always be highly 
 ---
 
 ## 📁 Files
-- `langchain_blog.ipynb`
+- `Langchain-Deep-technical-blog.ipynb`
 
 ---
 
